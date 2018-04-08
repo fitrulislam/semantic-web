@@ -30,8 +30,8 @@ ul li {
   font-weight: bold;
 }
 
-li:hover {
- color: #ccc;
+ul li:hover {
+ color: grey;
 }
 
 #content {
